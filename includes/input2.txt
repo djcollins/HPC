@@ -1,0 +1,4 @@
+example_pn3_10RU_751frames.dcd
+2
+1,2-4,5
+6-10,11
